@@ -1,0 +1,6 @@
+# MATLAB data/output files
+problems/
+results/*.mat
+
+# Runtime logs
+*.log
